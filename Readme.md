@@ -1,0 +1,1 @@
+This is a simple etch-a-sketch project made in html, css, javascript.
